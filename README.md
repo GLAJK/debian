@@ -24,7 +24,7 @@ Boot into your minimal Debian environment and run:
 ```bash
 sudo apt update && sudo apt install git -y
 git clone https://github.com/GLAJK/debian.git
-cd Debian-KDE-Minimal-Install
+cd debian
 ```
 
 ### 2. Run the Scripts in Order
