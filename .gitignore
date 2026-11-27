@@ -1,0 +1,15 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary / Swap files
+*.swp
+*.swo
+*~
+*.tmp
+*.log
+
+# Local secrets or environment overrides
+.env.local
+*.key
+*.pem
